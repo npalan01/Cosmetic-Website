@@ -1,4 +1,4 @@
-Indian Tourism:
+
 A responsive website developed in HTML and CSS featuring different products available for a cosmetic brand. It also allows a user to oreder these products online.
 
 Installation:
